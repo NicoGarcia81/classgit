@@ -13,7 +13,7 @@ h1{
     max-width: 650px;
     margin: 15px;
 }
-@media (max-wisth: 650px){
+@media (max-width: 650px){
     .holaMundo{
         background-color: blueviolet;
     }
